@@ -11,7 +11,8 @@ function App() {
         </p>
         <a
           className="App-link"
-          href=" https://www.propelleraero.com/dirtmate/"
+          // href=" https://www.propelleraero.com/dirtmate/"
+          href="null"
           target="_blank"
           rel="noopener noreferrer"
         >
